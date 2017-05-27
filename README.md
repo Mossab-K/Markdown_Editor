@@ -6,5 +6,7 @@ $> npm install
 $> npm start
 
 ```
+L'application est normalement lancé à l'adresse suivante : http://localhost:3001/
+
 ### Environnement :
 - ReactJs 
